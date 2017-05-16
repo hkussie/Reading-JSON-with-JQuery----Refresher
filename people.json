@@ -1,0 +1,19 @@
+{
+	"People" : [
+		{
+			"name" : "Harrison",
+			"age" : "Undetermined",
+			"Cool" : true
+		},
+		{
+			"name" : "Billy Bob",
+			"age" : "Undetermined",
+			"Cool" : false
+		},
+		{
+			"name" : "Bob Billy",
+			"age" : "Undetermined",
+			"Cool" : true
+		}
+	]
+}
